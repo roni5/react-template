@@ -10,11 +10,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tribou/react-template.git"
+    "url": "git+https://github.com/roni5/react-template.git"
   },
   "author": "tribou",
   "license": "Apache-2.0",
-  "homepage": "https://github.com/tribou/react-template#readme",
+  "homepage": "https://github.com/roni5/react-template#readme",
   "devDependencies": {
     "@webpack-blocks/webpack2": "^0.4.0",
     "assets-webpack-plugin": "^3.4.0",
